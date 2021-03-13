@@ -1,5 +1,7 @@
 # Fala pessoal, me chamo José Magalhães :👋
 
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/josesmagalhaes)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jos%C3%A9-magalh%C3%A3es-31a1a0176/)
 [<img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>](https://www.udemy.com/user/jose-de-sousa-magalhaes/)
 
 
